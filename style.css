@@ -1,0 +1,287 @@
+
+.me-5{
+
+    filter: invert(100%);
+}
+.btn2{
+    border-radius: 20px;
+    border: none;
+    color: white;
+    background-color: rgb(38, 38, 44);
+    font-size: 15px;
+    
+}
+.endbtn{
+   /* border: 1px solid red;*/
+    display: flex;
+   position: relative;
+   /*left: 22%;*/
+   justify-content: flex-end;
+  
+   
+    
+}
+.btn2:hover{
+
+    background-color: white;
+    color: black;
+    
+}
+
+
+
+
+
+
+
+
+                                                   /*First*/
+#first{
+   /* border: 1px solid red;*/
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    background-color: black;
+    position: relative;
+    /*top: 30px;*/
+
+   
+  
+   
+}
+
+
+#one{
+    /*border: 1px solid blue*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    padding-left: 5%;
+  
+  
+}
+#two{
+  
+    
+  
+    /*border: 1px solid blue;*/
+    display: flex;  
+    flex-direction: column;
+    height: 400px;
+    background-color: rgb(177, 177, 177);
+    justify-content: center;
+    padding-bottom: 3%;
+    
+    
+  
+    
+    
+}
+#paraone{
+
+text-align: left;
+/*border: 1px solid green;*/  
+
+
+
+ 
+}
+.para{
+   /* border: 1px solid red;*/
+    font-family:'Quicksand', sans-serif; 
+    padding-left: 10%;
+    
+
+   
+}
+.meetup{
+    font-size: 40px;
+    color: white;
+   
+
+}
+.secure{
+    color: white;
+  
+}
+/*.img-fluid{
+    height: /*250px*/ /*65%;
+    /*width: auto;
+    
+  
+}*/
+
+                                                                    /*Second*/
+ #second{
+
+    display: flex;
+   /* border: 1px solid green;*/
+    height: auto;
+    justify-content: center;
+    align-items: center;
+    
+
+ }     
+ .two{
+     /*border: 1px solid black;*/
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     justify-content: center;
+     font-family:'Quicksand', sans-serif; 
+     font-size: 18px;
+     
+    
+    
+    
+     
+
+ }                                                              
+#secimg{
+
+    padding-bottom: 1%;
+    
+}
+#secpara{
+    display: flex;
+    height: 450px;
+    flex-direction: column;
+    justify-content: center;
+}
+
+                                                     /*Third*/
+
+#third{
+
+  /*  border: 1px solid yellow;*/
+
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+}    
+
+
+.three{
+
+   /* border: 1px solid red;*/
+    
+   
+    
+    
+    
+}
+#thrimg{
+    height: auto;
+    display: flex;
+    justify-content: center;
+    padding-right: 7%;
+    padding-top: 2%;
+    
+    
+    
+}
+
+.parathr{
+   padding-left: 10%;
+    font-family:'Quicksand', sans-serif;
+    color: white;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+                                                         /*Fourth*/
+
+#fourth{
+
+    /*border: 1px solid yellow ;*/
+    display: flex;
+    background-color: rgb(182, 182, 182);
+    justify-content: center;
+    align-items: center;
+
+}                                                         
+
+
+.four{
+    /*border: 1px solid blue;*/
+    height: auto;
+    font-family:'Quicksand', sans-serif;
+    
+}
+#forpara{
+
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    justify-content: center;
+
+
+
+}
+#forimg{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+                                                            /*Fifth*/
+#fifth{
+    
+}   
+
+.five{
+   /* border: 1px solid red;*/
+    display: flex;
+    align-items: center;
+   
+}
+#fifimg{
+    display: flex;
+    justify-content: center;
+}
+.fifpara{
+    display: flex;
+    justify-content: center;
+    font-family:'Quicksand', sans-serif;
+   /* border: 1px solid red;*/
+    flex-direction: column;
+    height: 420px;
+    
+    
+}
+
+
+
+                            /*Scroll Button*/
+.scroll{
+    border: none;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    font-size: 40px;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: rgb(212, 209, 209);
+    color: black;
+
+    
+}
+
+                              
+.scroll:hover{
+
+    box-shadow : 2px 2px 2px rgb(145, 142, 142) ;
+}
+.hide{
+    display: none;
+}
+
